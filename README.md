@@ -24,4 +24,4 @@
   pip3 install openai
 </pre>
 
-Eski GitHub profilim 👉 <p><a href='https://github.com/Muxitdinovich'>Bo'sing</a></p>
+Eski GitHub profilim 👉<a href='https://github.com/Muxitdinovich'>Bo'sing</a>
