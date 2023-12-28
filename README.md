@@ -1,8 +1,8 @@
 # ChatGPT-telegrambot
 
 <b><p>Shart:</p></b>
-<p>1. OPENAI API KEY 👉</p> <a herf='https://openai.com/product'>OPENAI</a>
-<p>1. BOTFATHER TOKEN 👉</p> <a herf='https://t.me/BotFather'>BOTFATHER</a>
+<p>1. OPENAI API KEY 👉 <a href='https://openai.com/product'>OPENAI</a></p>
+<p>1. BOTFATHER TOKEN 👉 <a href='https://t.me/BotFather'>BOTFATHER</a></p>
 
 
 <b1>Install:</b1>
@@ -24,4 +24,4 @@
   pip3 install openai
 </pre>
 
-Eski GitHub profilim 👉 <a herf='https://github.com/Muxitdinovich'>Bo'sing</a>
+Eski GitHub profilim 👉 <p><a href='https://github.com/Muxitdinovich'>Bo'sing</a></p>
